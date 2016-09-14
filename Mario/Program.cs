@@ -24,9 +24,9 @@ using System.Threading.Tasks;
  *  #####
  */
 
-namespace Mario
+namespace Mario1
 {
-    class Mario1
+    class Program
     {
         static void Main(string[] args)
         {

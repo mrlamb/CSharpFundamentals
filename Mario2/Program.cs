@@ -30,9 +30,9 @@ using static Utils.Utils;
  *   ####
  *  #####
  */
-namespace Mario
+namespace Mario2
 {
-    class Mario2
+    class Program
     {
         static void Main(string[] args)
         {
